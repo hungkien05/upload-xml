@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE note [
+	<!ELEMENT students (student)>
+    <!ELEMENT student (name,birthyear,school)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT birthyear (#PCDATA)>
+    <!ELEMENT school (#PCDATA)>
+]>
+<students>
+	<student>
+		<name>Nguyen van A</name>
+		<birthyear>1969</birthyear>
+		<school>Trường Đời</school>
+	</student>
+	<student>
+		<name>Tran thi B</name>
+		<birthyear>1996</birthyear>
+		<school>Trường làng</school>
+	</student>
+</students>

